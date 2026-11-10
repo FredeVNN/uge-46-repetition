@@ -1,4 +1,4 @@
 package dag2_objektorienteret;
 
-public class Opgave01 {
+public class OpgaveB1 {
 }
